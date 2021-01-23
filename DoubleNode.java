@@ -1,4 +1,4 @@
-    package maraton2;
+package practice;
 
 public class DoubleNode {
 
@@ -8,5 +8,4 @@ public class DoubleNode {
         this.x = x;
         this.y = y;
     }
-
 }
